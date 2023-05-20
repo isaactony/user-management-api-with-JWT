@@ -1,0 +1,26 @@
+{
+  "name": "user-management-api-with-JWT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaactony/user-management-api-with-JWT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaactony/user-management-api-with-JWT.git"
+  },
+  "homepage": "https://github.com/isaactony/user-management-api-with-JWT.git",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.3",
+    "uuid": "^8.3.0"
+  }
+}
