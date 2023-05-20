@@ -29,9 +29,16 @@ The API will be available at http://localhost:5000 (or the specified port).
 # Usage
 ### The API exposes the following endpoints:
 
-- POST /register: Register a new user.
-- POST /login: Authenticate and log in a user.
-- GET /profile: Get the user profile (requires authentication).
+- POST /users: Register a new user.
+
+- GET /users: Get a list of users.
+
+- GET /users/:userId: Get user details by user ID.
+
+- PATCH /users/:userId: Update user details by user ID.
+
+- DELETE /users/:userId: Delete a user by user ID.
+
 
 To access the protected routes, you need to include the JWT token in the request headers:
 
@@ -41,6 +48,7 @@ To access the protected routes, you need to include the JWT token in the request
 - Express
 - MongoDB
 - JSON Web Tokens (JWT)
+- Docker
 
 
 # License
