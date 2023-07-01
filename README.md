@@ -18,7 +18,6 @@ npm install
 - JWT_SECRET - The secret key for JWT token generation and verification.
 
 # Start the API:
-//
 
 ```
 npm start
