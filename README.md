@@ -21,7 +21,7 @@ npm install
 npm start
 The API will be available at http://localhost:5000 (or the specified port).
 ```
-///
+
 # Usage
 ### The API exposes the following endpoints:
 
