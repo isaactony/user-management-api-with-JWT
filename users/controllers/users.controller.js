@@ -26,7 +26,7 @@ exports.list = (req, res) => {
             res.status(200).send(result);
         })
 };
-
+//find if user exists
 exports.getById = (req, res) => {
     UserModel.findById(req.params.userId)
         .then((result) => {
