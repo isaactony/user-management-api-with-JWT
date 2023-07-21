@@ -48,7 +48,7 @@ exports.patchById = (req, res) => {
         });
 
 };
-//
+
 exports.removeById = (req, res) => {
     UserModel.removeById(req.params.userId)
         .then((result)=>{
