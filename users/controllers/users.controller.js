@@ -33,6 +33,8 @@ exports.getById = (req, res) => {
             res.status(200).send(result);
         });
 };
+
+//hash user password
 exports.patchById = (req, res) => {
     if (req.body.password) {
         let salt = crypto.randomBytes(16).toString('base64');
