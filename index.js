@@ -2,7 +2,7 @@ const config = require('./common/config/env.config.js');
 
 const express = require('express');
 const app = express();
-//
+
 const AuthorizationRouter = require('./authorization/routes.config');
 const UsersRouter = require('./users/routes.config');
 
