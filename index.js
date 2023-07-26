@@ -18,7 +18,7 @@ app.use(function (req, res, next) {
         return next();
     }
 });
-//
+
 app.use(express.json());
 AuthorizationRouter.routesConfig(app);
 UsersRouter.routesConfig(app);
