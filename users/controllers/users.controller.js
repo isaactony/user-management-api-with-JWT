@@ -24,7 +24,7 @@ exports.list = (req, res) => {
     UserModel.list(limit, page)
         .then((result) => {
             res.status(200).send(result);
-        })
+        }) ///
 };
 //find if user exists
 exports.getById = (req, res) => {
