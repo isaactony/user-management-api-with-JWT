@@ -3,7 +3,7 @@ const crypto = require('crypto');
 
 exports.hasAuthValidFields = (req, res, next) => {
     let errors = [];
-//
+////
     if (req.body) {
         if (!req.body.email) {
             errors.push('Missing email field');
