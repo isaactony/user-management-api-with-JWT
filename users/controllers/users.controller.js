@@ -1,6 +1,6 @@
 const UserModel = require('../models/users.model');
 const crypto = require('crypto');
-//
+////
 
 exports.insert = (req, res) => {
     let salt = crypto.randomBytes(16).toString('base64');
