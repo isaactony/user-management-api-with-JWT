@@ -17,7 +17,7 @@ npm install
 - JWT_SECRET - The secret key for JWT token generation and verification.
 
 # Start the API:
-```
+```   ///
 npm start 
 The API will be available at http://localhost:5000 (or the specified port).
 ```
