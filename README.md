@@ -2,7 +2,7 @@
 This repository contains a simple User Management API implemented using Node.js, Express, MongoDB, and JSON Web Tokens (JWT). The API provides endpoints for user registration, login, and accessing protected routes that require authentication.
 # Installation  
 Clone the repository:   
-```git clone https://github.com/isaactony/user-management-api-with-JWT.git```      
+```git clone https://github.com/isaactony/user-management-api-with-JWT.git```        
 # Install the dependencies:  
 ```      
 cd user-management-api-with-JWT       
