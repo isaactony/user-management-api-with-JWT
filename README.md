@@ -52,7 +52,7 @@ To access the protected routes, you need to include the JWT token in the request
 
 
 # Developer
-Isaac Tonyloi
+Isaac Tonyloi 
 
 
 
