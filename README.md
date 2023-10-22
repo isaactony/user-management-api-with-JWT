@@ -1,4 +1,4 @@
-# User Management API with JWT
+# User Management API with JWT. 
 This repository contains a simple User Management API implemented using Node.js, Express, MongoDB, and JSON Web Tokens (JWT). The API provides endpoints for user registration, login, and accessing protected routes that require authentication.
 # Installation      
 Clone the repository:     
