@@ -9,7 +9,7 @@ Clone the repository:
 cd user-management-api-with-JWT                     
 npm install                          
 ```    
-# Set up the environment variables:                  
+# Set up the environment variables:                     
          
 - Create a .env file in the project root directory.
 - Define the following variables in the .env file:
