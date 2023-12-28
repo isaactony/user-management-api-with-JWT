@@ -7,7 +7,7 @@ Clone the repository:
 ```  
      
 cd user-management-api-with-JWT                       
-npm install                          
+npm install                            
 ```    
 # Set up the environment variables:                     
          
