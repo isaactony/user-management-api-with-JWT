@@ -23,7 +23,7 @@ npm start
 The API will be available at http://localhost:5000 (or the specified port).
 ```
 
-# Usage
+# Usage    
 ### The API exposes the following endpoints:
 
 - POST /users: Register a new user.
