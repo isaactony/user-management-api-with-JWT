@@ -32,7 +32,7 @@ The API will be available at http://localhost:5000 (or the specified port).
 
 - GET /users/:userId: Get user details by user ID.
 
-- PATCH /users/:userId: Update user details by user ID.
+- PATCH /users/:userId: Update user details by user ID.   
 
 - DELETE /users/:userId: Delete a user by user ID.
 
