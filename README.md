@@ -3,10 +3,10 @@ This repository contains a simple User Management API implemented using Node.js,
 # Installation      
 Clone the repository:       
 ```git clone https://github.com/isaactony/user-management-api-with-JWT.git```              
-# Install the dependencies:          
+# Install the dependencies:               
 ```    
      
-cd user-management-api-with-JWT                       
+cd user-management-api-with-JWT                          
 npm install                            
 ```                  
 # Set up the environment variables:                       
