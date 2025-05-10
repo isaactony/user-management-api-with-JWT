@@ -16,7 +16,7 @@ npm install
 - PORT - The port number on which the API will run (default is 5000).      
 - MONGODB_URI - The URI of your MongoDB database.
 - JWT_SECRET - The secret key for JWT token generation and verification. 
-  
+     
 # Start the API:     
 ```   
 npm start 
