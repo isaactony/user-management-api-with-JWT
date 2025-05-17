@@ -11,7 +11,7 @@ npm install
 ```                  
 # Set up the environment variables:                         
                
-- Create a .env file in the project root directory.           
+- Create a .env file in the project root directory.              
 - Define the following variables in the .env file:              
 - PORT - The port number on which the API will run (default is 5000).      
 - MONGODB_URI - The URI of your MongoDB database.
